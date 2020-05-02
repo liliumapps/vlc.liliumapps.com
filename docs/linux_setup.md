@@ -57,7 +57,7 @@ Save and restart VLC and play any video/audio in that.
 2. __IP Address:__ mostly it will detect automatically.
 3. __Port:__ default is 8080. don't change it unless you have changed while installing VLC.
 4. __Password:__ enter the password that you have given in step 4 and click on connect.
-5. If you can't connect, try entering IP address manually and click on connect. To find IP address, follow the instructions [here](find_ip_address.md#linux).
+5. If you can't connect, try entering IP address manually and click on connect. To find IP address, follow the instructions [here](find_ip_address.mdx#linux).
 
 :::tip
 

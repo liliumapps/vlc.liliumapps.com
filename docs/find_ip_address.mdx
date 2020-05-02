@@ -1,0 +1,54 @@
+---
+id: find_ip_address
+title: Find IP address
+sidebar_label: Find IP address
+description: How to find IP address?
+keywords:
+  - VLC
+  - VLC stream and remote
+  - IP Address
+---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
+<Tabs
+  groupId="operating-systems"
+  defaultValue="win"
+  values={[
+    { label: "Windows", value: "win", },
+    { label: "macOS", value: "mac", },
+    { label: "Linux", value: "linux", },
+  ]
+}>
+<TabItem value="win">
+    <p>Open cmd prompt from search menu.</p>
+    <p>
+      <img src="/vlc-docs/img/tutorial/windows_ip_address_one.png" alt="first step"/>
+    </p>
+    <p>Type <b>ipconfig</b> and enter. you can find the IP address like shown in the picture. note down the IP address and
+      configure it <a href="/vlc-docs/docs/windows_setup">here</a>
+    </p>
+    <p>
+      <img src="/vlc-docs/img/tutorial/windows_ip_address_two.png" alt="second step"/>
+    </p>
+</TabItem>
+<TabItem value="mac">
+   <p>Click on network icon and open network preferences.</p>
+   <p>
+    <img src="/vlc-docs/img/tutorial/mac_ip_address_one.png" alt="first step"/>
+   </p>
+   <p>You can find the IP address like shown in the picture. note down the IP address and configure it <a
+      href="/vlc-docs/docs/mac_setup">here</a></p>
+   <p><img src="/vlc-docs/img/tutorial/mac_ip_address_two.png" alt="second step"/></p>
+</TabItem>
+<TabItem value="linux">
+  <p>Search for wireless.</p>
+  <img src="/vlc-docs/img/tutorial/linux_ip_address_one.jpg" alt="first step"/>
+  <p>Click on the connected network.</p>
+  <img src="/vlc-docs/img/tutorial/linux_ip_address_two.jpg" alt="second step"/>
+  <p>In the details tab, you can find the IPv4 address. note down the IP address and configure it <a
+      href="/vlc-docs/docs/linux_setup">here</a> 
+  </p>
+  <img src="/vlc-docs/img/tutorial/linux_ip_address_three.jpg" alt="third step"/>
+</TabItem>
+</Tabs>
