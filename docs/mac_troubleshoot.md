@@ -17,3 +17,7 @@ Open this [link](http://localhost:8080) in laptop browser.leave username as blan
 If __yes__, try to [configure the IP address manually](find_ip_address.md) and try again.
 
 If __no__, follow the [setup process](mac_setup.md) again and check if you missed anything.
+
+:::tip
+Please contact us @ tuple.me@gmail.com incase if you got stuck at anything.
+:::

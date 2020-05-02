@@ -21,3 +21,7 @@ If __no__, follow the [setup process](windows_setup.md) again and check if you m
 #### Do you have firewall in your system?
 
 If yes, allow VLC to access network.
+
+:::tip
+Please contact us @ tuple.me@gmail.com incase if you got stuck at anything.
+:::
