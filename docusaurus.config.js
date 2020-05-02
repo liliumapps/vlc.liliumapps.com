@@ -4,8 +4,8 @@ module.exports = {
   url: 'https://codefromdude.com',
   baseUrl: '/vlc-docs/',
   favicon: 'img/favicon.ico',
-  organizationName: 'tuple.me', // Usually your GitHub org/user name.
-  projectName: 'vlc docs', // Usually your repo name.
+  organizationName: 'gokuldroid', // Usually your GitHub org/user name.
+  projectName: 'vlc-docs', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'VLC stream and remote',
