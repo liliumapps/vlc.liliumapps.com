@@ -12,28 +12,27 @@ const features = [
     imageUrl: 'img/undraw_check_boxes.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        VLC stream and remote was designed to be easily installed and
+        used to make your VLC viewing experience great.
       </>
     ),
   },
   {
-    title: <>Focus on What Matters</>,
+    title: <>Intuitive design</>,
     imageUrl: 'img/undraw_lightbulb_moment.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        VLC stream and remote designed keeping the users in mind. 
+        Every aspect of the app is carefully designed to make the user experience great.
       </>
     ),
   },
   {
-    title: <>Powered by React</>,
+    title: <>Hassle free</>,
     imageUrl: 'img/undraw_listening.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Only one time setup required. After that you VLC media player can be completely hands free.
       </>
     ),
   },
