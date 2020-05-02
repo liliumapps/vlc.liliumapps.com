@@ -2,6 +2,10 @@
 id: stream_video
 title: Stream video
 sidebar_label: Stream video
+description: How to stream videos to VLC media player?
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 > This menu lets you stream video files in your phone to VLC player in your computer

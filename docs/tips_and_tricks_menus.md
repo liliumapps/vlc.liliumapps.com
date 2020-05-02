@@ -2,6 +2,11 @@
 id: tips_and_tricks_menus
 title: Navigation
 sidebar_label: Navigation
+description: VLC stream and remote features
+keywords:
+  - VLC
+  - VLC stream and remote
+  - VLC Android app
 ---
 
 <div class="row">

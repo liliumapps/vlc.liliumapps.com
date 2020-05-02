@@ -2,6 +2,10 @@
 id: stream_audio
 title: Stream audio
 sidebar_label: Stream audio
+description: How to stream audio to VLC media player?
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 > This menu lets you stream audio/mp3 files in your phone to VLC player in your computer

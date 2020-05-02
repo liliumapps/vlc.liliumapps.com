@@ -2,6 +2,11 @@
 id: find_ip_address
 title: Find IP address
 sidebar_label: Find IP address
+description: How to find IP address?
+keywords:
+  - VLC
+  - VLC stream and remote
+  - IP Address
 ---
 
 ##### Windows

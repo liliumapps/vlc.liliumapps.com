@@ -2,6 +2,11 @@
 id: mac_setup
 title: MAC setup
 sidebar_label: MAC
+description: Setup VLC stream and remote in MAC OS
+keywords:
+  - VLC
+  - VLC stream and remote
+  - VLC remote
 ---
 
 :::note

@@ -2,6 +2,11 @@
 id: playlist
 title: Playlist
 sidebar_label: Playlist
+description: Configure VLC playlist
+keywords:
+  - VLC
+  - VLC stream and remote
+  - VLC playlist
 ---
 
 > This menu lets you mange VLC playlist

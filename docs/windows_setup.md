@@ -2,6 +2,11 @@
 id: windows_setup
 title: Windows setup
 sidebar_label: Windows
+description: Setup VLC stream and remote in windows
+keywords:
+  - VLC
+  - VLC stream and remote
+  - VLC Remote
 ---
 :::note
 Download android app from  <a href="https://play.google.com/store/apps/details?id=tuple.me.vlcremote&hl=en_IN" target="_blank">here</a>

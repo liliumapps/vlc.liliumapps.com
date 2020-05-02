@@ -2,6 +2,11 @@
 id: linux_setup
 title: Linux setup
 sidebar_label: Linux
+description: Setup VLC stream and remote in linux
+keywords:
+  - VLC
+  - VLC stream and remote
+  - VLC Remote
 ---
 
 :::note

@@ -2,6 +2,10 @@
 id: settings
 title: Settings
 sidebar_label: Settings
+description: VLC stream and remote customization
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 > This menu lets you configure the app

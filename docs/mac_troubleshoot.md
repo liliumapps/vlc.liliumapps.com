@@ -2,6 +2,10 @@
 id: mac_troubleshoot
 title: MAC troubleshooting
 sidebar_label: MAC
+description: VLC stream and remote setup problems
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 :::important

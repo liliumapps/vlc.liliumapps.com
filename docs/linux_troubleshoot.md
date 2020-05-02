@@ -2,6 +2,10 @@
 id: linux_troubleshoot
 title: Linux troubleshooting
 sidebar_label: Linux
+description: VLC stream and remote setup problems
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 :::important

@@ -2,6 +2,10 @@
 id: windows_troubleshoot
 title: Windows troubleshooting
 sidebar_label: Windows
+description: VLC stream and remote setup problems
+keywords:
+  - VLC
+  - VLC stream and remote
 ---
 
 :::important
