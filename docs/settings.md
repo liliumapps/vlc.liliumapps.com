@@ -8,7 +8,7 @@ sidebar_label: Settings
 
 <div class="row">
   <div class="col">
-    <img src="/static/img/tutorial/settings.jpeg" alt="Add new player"></img>
+    <img src="assets/tutorial/settings.jpeg" alt="Add new player"></img>
   </div>
   <div class="col">
     <ul>

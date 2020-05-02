@@ -8,7 +8,7 @@ sidebar_label: Stream video
 
 <div class="row">
   <div class="col">
-    <img src="/static/img/tutorial/stream_video.jpeg" alt="Stream audio"></img>
+    <img src="assets/tutorial/stream_video.jpeg" alt="Stream audio"></img>
   </div>
   <div class="col">
     <ul>

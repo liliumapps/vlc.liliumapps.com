@@ -8,7 +8,7 @@ sidebar_label: Browse PC
 
 <div class="row">
   <div class="col">
-    <img src="/static/img/tutorial/browse_pc.jpeg" alt="Browse PC"></img>
+    <img src="assets/tutorial/browse_pc.jpeg" alt="Browse PC"></img>
   </div>
   <div class="col">
     <ul>

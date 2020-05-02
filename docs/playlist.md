@@ -8,7 +8,7 @@ sidebar_label: Playlist
 
 <div class="row">
   <div class="col">
-    <img src="/static/img/tutorial/playlist.jpeg" alt="Stream audio"></img>
+    <img src="assets/tutorial/playlist.jpeg" alt="Stream audio"></img>
   </div>
   <div class="col">
     <ul>
