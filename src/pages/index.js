@@ -9,7 +9,7 @@ import styles from './styles.module.css';
 const features = [
   {
     title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    imageUrl: 'img/undraw_check_boxes.svg',
     description: (
       <>
         Docusaurus was designed from the ground up to be easily installed and
@@ -19,7 +19,7 @@ const features = [
   },
   {
     title: <>Focus on What Matters</>,
-    imageUrl: 'img/undraw_docusaurus_tree.svg',
+    imageUrl: 'img/undraw_lightbulb_moment.svg',
     description: (
       <>
         Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
@@ -29,7 +29,7 @@ const features = [
   },
   {
     title: <>Powered by React</>,
-    imageUrl: 'img/undraw_docusaurus_react.svg',
+    imageUrl: 'img/undraw_listening.svg',
     description: (
       <>
         Extend or customize your website layout by reusing React. Docusaurus can
@@ -59,7 +59,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
+      title={siteConfig.title}
       description="Description will go into a meta tag in <head />">
       <header className={classnames('hero hero--primary', styles.heroBanner)}>
         <div className="container">
@@ -71,7 +71,7 @@ function Home() {
                 'button button--outline button--secondary button--lg',
                 styles.getStarted,
               )}
-              to={useBaseUrl('docs/doc1')}>
+              to={useBaseUrl('docs/windows_setup')}>
               Get Started
             </Link>
           </div>

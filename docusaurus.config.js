@@ -1,9 +1,9 @@
 module.exports = {
-  title: 'VLC Stream and remote',
+  title: 'VLC Stream and Remote',
   tagline: 'Get smart with VLC Stream and Remote',
   url: 'https://codefromdude.com',
   baseUrl: '/vlc-docs/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.png',
   organizationName: 'gokuldroid', // Usually your GitHub org/user name.
   projectName: 'vlc-docs', // Usually your repo name.
   themeConfig: {
@@ -11,7 +11,7 @@ module.exports = {
       title: 'VLC stream and remote',
       logo: {
         alt: 'VLC stream and remote',
-        src: 'img/logo.svg',
+        src: 'img/vlc_stream_remote.png',
       },
       links: [
         {
