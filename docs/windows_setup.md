@@ -19,24 +19,24 @@ Make sure your phone and computer (or laptop) connected to same WiFi network or 
 ##### Step 1:
 click __tools__ (1) and then click __preferences__ (2).
 
-![first step](/img/one.jpg)
+![first step](/vlc-docs/img/tutorial/one.jpg)
 
 ##### Step 2:
 click on __interface__ (3) and then click on __All__ radio button at the bottom (4).
 
-![second step](/img/two.jpg)
+![second step](/vlc-docs/img/tutorial/two.jpg)
 
 ##### Step 3:
 
 click on __main interfaces__ (5) and check the __web__ tick mark (6).
 
-![second step](/img/three.jpg)
+![second step](/vlc-docs/img/tutorial/three.jpg)
 
 ##### Step 4:
 
 click on __Lua__ (7) and the set some password, say __1234__ (9) and note down the password. we will use this password later.
 
-![second step](/img/four.jpg)
+![second step](/vlc-docs/img/tutorial/four.jpg)
 
 
 ##### Step 5:
@@ -45,7 +45,7 @@ Save and restart VLC and play any video/audio in that.
 
 ##### Step 6:
 
-![second step](/img/add_new_player.jpeg)
+![second step](/vlc-docs/img/tutorial/add_new_player.jpeg)
 
 1. __Computer name:__ give some name for your PC.
 2. __IP Address:__ mostly it will detect automatically.

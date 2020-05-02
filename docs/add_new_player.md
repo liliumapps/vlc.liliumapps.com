@@ -8,7 +8,7 @@ sidebar_label: Add new player
 
 <div class="row">
   <div class="col">
-    <img src="/img/choose_player.jpeg" alt="Add new player"></img>
+    <img src="/vlc-docs/img/tutorial/choose_player.jpeg" alt="Add new player"></img>
   </div>
   <div class="col">
     <ul>
