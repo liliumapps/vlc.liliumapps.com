@@ -6,7 +6,7 @@ sidebar_label: Navigation
 
 <div class="row">
   <div class="col">
-    <img src="assets/tutorial/menus.jpeg" alt="Navigation"/>
+    <img src="/img/menus.jpeg" alt="Navigation"/>
   </div>
   <div class="col">
     <ol>

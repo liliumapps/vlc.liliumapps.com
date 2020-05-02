@@ -8,7 +8,7 @@ sidebar_label: Controls
 
 <div class="row">
   <div class="col">
-    <img src="assets/tutorial/controls.jpeg" alt="VLC controls"></img>
+    <img src="/img/controls.jpeg" alt="VLC controls"></img>
   </div>
   <div class="col">
     <ul>
