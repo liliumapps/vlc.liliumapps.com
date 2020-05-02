@@ -1,6 +1,6 @@
 module.exports = {
   title: 'VLC Stream and Remote',
-  tagline: 'Streamer and Remote controller app for your VLC media player (PC)',
+  tagline: 'The smart way to control your VLC media player (PC)',
   url: 'https://codefromdude.com',
   baseUrl: '/vlc-docs/',
   favicon: 'img/favicon.png',
