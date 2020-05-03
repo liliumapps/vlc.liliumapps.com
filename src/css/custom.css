@@ -35,6 +35,14 @@
   display: none;
 }
 
+.menu.menu--responsive .menu__button {
+  background-color: #faa334;
+  color: white;
+  border-radius: 26px;
+}
+
+
+
 
 /* fallback */
 @font-face {
