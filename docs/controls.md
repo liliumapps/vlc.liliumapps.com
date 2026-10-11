@@ -8,7 +8,7 @@ sidebar_label: Controls
 
 <div class="row">
   <div class="col">
-    <img src="/vlc-docs/img/tutorial/controls.jpeg" alt="VLC controls"></img>
+    <img src="/img/tutorial/controls.jpeg" alt="VLC controls"></img>
   </div>
   <div class="col">
     <ul>
@@ -19,7 +19,7 @@ sidebar_label: Controls
       <li><b>Volume slider</b> increase/decrease volume. you can use phone's volume button also to control volume.</li>
       <li><i class="material-icons">fullscreen</i> toggle full screen.</li>
       <li><i class="material-icons">image_aspect_ratio</i> change aspect ratio.</li>
-      <li><i class="material-icons">message</i> select subtitle. If the subtitle name is same as the media file name it will be selected automatically. otherwise select the subtitle using <a href="/vlc-docs/docs/browse_pc">Browse PC</a> option.</li>
+      <li><i class="material-icons">message</i> select subtitle. If the subtitle name is same as the media file name it will be selected automatically. otherwise select the subtitle using <a href="/docs/browse_pc">Browse PC</a> option.</li>
       <li><i class="material-icons">image</i> take screen shot.</li>
       <li><i class="material-icons">speaker_group</i> cycle through audio devices.</li>
       <li><i class="material-icons">fast_rewind</i> rewind.</li>

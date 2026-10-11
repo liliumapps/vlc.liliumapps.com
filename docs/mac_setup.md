@@ -26,7 +26,7 @@ Make sure your phone and computer (or laptop) connected to same WiFi network or 
 
 click on __Preferences__(1) in VLC menu
 
-![first step](/vlc-docs/img/tutorial/mac_one.jpg)
+![first step](/img/tutorial/mac_one.jpg)
 
 
 
@@ -34,18 +34,18 @@ click on __Preferences__(1) in VLC menu
 
 click on __Interface__(1) and click on __Show All__(2) at the bottom
 
-![step two](/vlc-docs/img/tutorial/mac_two.jpg)
+![step two](/img/tutorial/mac_two.jpg)
 
 ##### Step 3:
 
 click on __Main Interfaces__(1) and check __Web__(2) option.
-![step three](/vlc-docs/img/tutorial/mac_three.jpg)
+![step three](/img/tutorial/mac_three.jpg)
 
 ##### Step 4:
 
 click on __Lua__(1) option and set some password in the __Password field__(2) under __Lua HTTP__ menu, say __1234__ and note down the password. we will use this password later.
 
-![step four](/vlc-docs/img/tutorial/mac_four.jpg)
+![step four](/img/tutorial/mac_four.jpg)
 
 
 ##### Step 5:
@@ -57,7 +57,7 @@ Save and restart VLC and play any video/audio in that.
 
 ##### Step 6:
 
-![second step](/vlc-docs/img/tutorial/add_new_player.jpeg)
+![second step](/img/tutorial/add_new_player.jpeg)
 
 1. __Computer name:__ give some name for your PC.
 2. __IP Address:__ mostly it will detect automatically.

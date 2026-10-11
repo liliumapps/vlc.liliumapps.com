@@ -13,7 +13,7 @@ keywords:
 
 <div class="row">
   <div class="col">
-    <img src="/vlc-docs/img/tutorial/playlist.jpeg" alt="Stream audio"></img>
+    <img src="/img/tutorial/playlist.jpeg" alt="Stream audio"></img>
   </div>
   <div class="col">
     <ul>

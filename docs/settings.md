@@ -12,7 +12,7 @@ keywords:
 
 <div class="row">
   <div class="col">
-    <img src="/vlc-docs/img/tutorial/settings.jpeg" alt="Add new player"></img>
+    <img src="/img/tutorial/settings.jpeg" alt="Add new player"></img>
   </div>
   <div class="col">
     <ul>
