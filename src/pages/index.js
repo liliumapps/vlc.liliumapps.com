@@ -59,7 +59,7 @@ function Home() {
   return (
     <Layout
       title={siteConfig.title}
-      description="VLC remote controller app for android">
+      description="Control VLC media player on your Windows, Mac, or Linux computer from your Android phone, and stream your phone's music and videos to it.">
       <header className={clsx('hero hero--primary', styles.heroBanner)}>
         <div className="container">
           <h1 className="hero__title">{siteConfig.title}</h1>

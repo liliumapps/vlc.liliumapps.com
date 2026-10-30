@@ -2,6 +2,7 @@
 id: add_new_player
 title: Add new player
 sidebar_label: Add new player
+description: Add, choose, and remove the VLC players the app connects to.
 ---
 
 > This menu lets you mange VLC players configured

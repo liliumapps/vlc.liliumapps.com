@@ -2,6 +2,7 @@
 id: browse_pc
 title: Browse PC
 sidebar_label: Browse PC
+description: Browse the folders on your computer from your phone and play any file in VLC.
 ---
 
 > This menu lets you play media in your PC with easy to use UI.

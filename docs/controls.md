@@ -2,6 +2,7 @@
 id: controls
 title: Controls
 sidebar_label: Controls
+description: Control VLC playback from your phone, with audio and subtitle sync, playback speed, volume, and full screen.
 ---
 
 > Swipe up the bottom bar to open controls option
